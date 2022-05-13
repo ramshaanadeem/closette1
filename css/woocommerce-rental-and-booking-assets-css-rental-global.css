@@ -1,0 +1,10 @@
+
+.order_item dt.variation-_pickup_hidden_datetime, .order_item dd.variation-_pickup_hidden_datetime,
+.order_item dt.variation-_return_hidden_datetime, .order_item dd.variation-_return_hidden_datetime{
+	display: none !important;
+}
+
+
+
+
+/*This file was exported by "Export WP Page to Static HTML" plugin which created by ReCorp (https://myrecorp.com) */
